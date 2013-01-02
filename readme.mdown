@@ -18,7 +18,7 @@ First, clone the repository via Terminal.
 
 Once the files have been downloaded, and your Terminal directory has been changed to point to the Grader project, you can now test it out.
 
-		$ javac Grader.java
-		$ java Grader
+		$ javac grade.java
+		$ java grade
 
 As mentioned, the program will execute its primary functions. To edit to your liking, open the Grader.java file in the /src folder. Within your Java IDE, you can now test out different grades, numbers, text, etc.
