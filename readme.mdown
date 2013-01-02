@@ -1,0 +1,24 @@
+Grader
+====
+
+Grader was built to sustain two main functions. First off, it prompts the user to input the numerical grade they received in a class or on an assignement. Second, it outputs the letter grade assocciated with the number that was inputted.
+
+The letter grades go by the Colonia High School grading system.
+
+This project was used in CS Club due to the fact that some wanted to learn (or brush up on) if-else statements. After teaching the core material, we showed some students how to add else-if into a program, and what its significance is.
+
+
+Installation
+====
+
+First, clone the repository via Terminal.
+
+		$ git clone https://github.com/CHSCompSci/Grader.git
+		$ cd Grader
+
+Once the files have been downloaded, and your Terminal directory has been changed to point to the Grader project, you can now test it out.
+
+		$ javac Grader.java
+		$ java Grader
+
+As mentioned, the program will execute its primary functions. To edit to your liking, open the Grader.java file in the /src folder. Within your Java IDE, you can now test out different grades, numbers, text, etc.
