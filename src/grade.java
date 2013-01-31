@@ -3,7 +3,7 @@ public class grade {
     public static void main(String [] args) {
         Scanner reader = new Scanner(System.in);
         System.out.print("What numerical grade did you get? ");
-        int x = reader.nextInt();
+        double x = reader.nextDouble();
         
         
         if (x >= 97.5) {
