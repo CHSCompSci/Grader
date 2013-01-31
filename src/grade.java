@@ -6,52 +6,52 @@ public class grade {
         int x = reader.nextInt();
         
         
-        if (x >= 98) {
+        if (x >= 97.5) {
             System.out.println("A " + x + " is an A+.");
         }
         
-        else if (x >= 95) {
+        else if (x >= 94.5) {
             System.out.println("A " + x + " is an A.");
         }
         
-        else if (x >= 92) {
+        else if (x >= 91.5) {
             System.out.println("A " + x + " is an A-.");
         }
         
         
-        else if (x >= 90) {
+        else if (x >= 88.5) {
             System.out.println("A " + x + " is a B+.");    
         }
         
-        else if (x >=87) {
+        else if (x >=85.5) {
             System.out.println("A " + x + " is a B.");
         }
         
-        else if (x >= 83) {
+        else if (x >= 82.5) {
             System.out.println("A " + x + " is a B-.");
         }
         
-        else if (x >= 76) {
+        else if (x >= 75.5) {
             System.out.println("A " + x + " is a C+.");
         }
         
-        else if (x >= 72) {
+        else if (x >= 71.5) {
             System.out.println("A " + x + " is a C.");
         }
         
-        else if (x >= 70) {
+        else if (x >= 69.5) {
             System.out.println("A " + x + " is a C-.");
         }
         
-        else if (x >= 66) {
+        else if (x >= 65.5) {
             System.out.println("A " + x + " is a D+.");
         }
         
-        else if (x >= 62) {
+        else if (x >= 61.5) {
             System.out.println("A " + x + " is a D.");
         }
         
-        else if (x >= 60) {
+        else if (x >= 59.5) {
             System.out.println("A " + x + " is a D.");
     
         }
