@@ -6,52 +6,52 @@ public class grade {
         double grade = reader.nextDouble();
         
         
-        if (x >= 97.5) {
+        if (grade >= 97.5) {
             System.out.println("A " + grade + " is an A+.");
         }
         
-        else if (x >= 94.5) {
+        else if (grade >= 94.5) {
             System.out.println("A " + grade + " is an A.");
         }
         
-        else if (x >= 91.5) {
+        else if (grade >= 91.5) {
             System.out.println("A " + grade + " is an A-.");
         }
         
         
-        else if (x >= 88.5) {
+        else if (grade >= 88.5) {
             System.out.println("A " + grade + " is a B+.");    
         }
         
-        else if (x >=85.5) {
+        else if (grade >=85.5) {
             System.out.println("A " + grade + " is a B.");
         }
         
-        else if (x >= 82.5) {
+        else if (grade >= 82.5) {
             System.out.println("A " + grade + " is a B-.");
         }
         
-        else if (x >= 75.5) {
+        else if (grade >= 75.5) {
             System.out.println("A " + grade + " is a C+.");
         }
         
-        else if (x >= 71.5) {
+        else if (grade >= 71.5) {
             System.out.println("A " + grade + " is a C.");
         }
         
-        else if (x >= 69.5) {
+        else if (grade >= 69.5) {
             System.out.println("A " + grade + " is a C-.");
         }
         
-        else if (x >= 65.5) {
+        else if (grade >= 65.5) {
             System.out.println("A " + grade + " is a D+.");
         }
         
-        else if (x >= 61.5) {
+        else if (grade >= 61.5) {
             System.out.println("A " + grade + " is a D.");
         }
         
-        else if (x >= 59.5) {
+        else if (grade >= 59.5) {
             System.out.println("A " + grade + " is a D.");
     
         }
