@@ -23,7 +23,7 @@ public class grade {
             System.out.println("A " + grade + " is a B+.");    
         }
         
-        else if (grade >=85.5) {
+        else if (grade >= 85.5) {
             System.out.println("A " + grade + " is a B.");
         }
         
@@ -31,28 +31,28 @@ public class grade {
             System.out.println("A " + grade + " is a B-.");
         }
         
-        else if (grade >= 75.5) {
+        else if (grade >= 79.5) {
             System.out.println("A " + grade + " is a C+.");
         }
         
-        else if (grade >= 71.5) {
+        else if (grade >= 75.5) {
             System.out.println("A " + grade + " is a C.");
         }
         
-        else if (grade >= 69.5) {
+        else if (grade >= 71.5) {
             System.out.println("A " + grade + " is a C-.");
         }
         
-        else if (grade >= 65.5) {
+        else if (grade >= 67.5) {
             System.out.println("A " + grade + " is a D+.");
         }
         
-        else if (grade >= 61.5) {
+        else if (grade >= 63.5) {
             System.out.println("A " + grade + " is a D.");
         }
         
         else if (grade >= 59.5) {
-            System.out.println("A " + grade + " is a D.");
+            System.out.println("A " + grade + " is a D-.");
     
         }
         
